@@ -1,0 +1,17 @@
+/* Write your code here. */
+.list-item {
+  margin-right: 28px;
+}
+
+.thumbnailImg {
+  opacity: 0.5;
+}
+
+.button {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-style: none;
+}

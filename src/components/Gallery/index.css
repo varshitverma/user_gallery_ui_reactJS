@@ -1,0 +1,22 @@
+/* Write your code here. */
+.bg-container {
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto';
+}
+
+.card {
+  padding: 15px;
+}
+
+.main-image {
+  width: 900px;
+  height: 450px;
+}
+.img-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+}
